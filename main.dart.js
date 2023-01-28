@@ -60266,7 +60266,7 @@ A.Tz.prototype={
 $1(a){return B.za},
 $S:360}
 A.CL.prototype={
-M(a){return new A.td(B.zp,"Flutter Demo",A.ab5(null,B.Ec,B.fO,null),null)}}
+M(a){return new A.td(B.zp,"Hazrin App",A.ab5(null,B.Ec,B.fO,null),null)}}
 A.WS.prototype={
 NO(a){$.a9D().a.set(this,a)}}
 A.nI.prototype={
